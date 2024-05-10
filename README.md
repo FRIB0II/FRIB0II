@@ -11,9 +11,10 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-de-figueiredo-camargo-delgado-945b45301/)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nico_fals/)
 
-
-![FRIB0II GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIB0II&theme=merko&show_icons=true)
-
+<h2>Sobre mim:</h2>
+<p>
+Atualmente sou estudante do Instituto Federal de Ciência e Tecnologia do Paraná. Estou cursando o 3ºano de 4 anos do curso técnico em informática. Tenho experiência em diversas áreas, como: desenvolvimento web (Full-Stack), robótica educacional e sistemas embarcados. Também sou um entusiasta apaixonado por tecnologia, buscando sempre aprender novos conceitos e aplicações.
+</p>
 
 <h2>Tecnologias que eu conheço:<h2/>
 
