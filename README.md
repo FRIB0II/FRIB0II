@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu me chamo Nicolas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=Um+desenvolvedor+full-stack+apaixonado+por+tecnologia." alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=Um+desenvolvedor+back-end+apaixonado+por+tecnologia." alt="Typing SVG"/></a>
 </p>
 
 
