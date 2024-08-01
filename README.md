@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu me chamo Nicolas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=Um+desenvolvedor+back-end+apaixonado+por+tecnologia." alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=Um+desenvolvedor+Full-Stack+apaixonado+por+tecnologia." alt="Typing SVG"/></a>
 </p>
 
 
@@ -27,7 +27,6 @@ Atualmente sou estudante do Instituto Federal de Ciência e Tecnologia do Paran�
 <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img aling="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aling="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img aling="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
