@@ -8,7 +8,7 @@
 <h2>Você pode me contatar e conhecer mais sobre mim nas seguintes plataformas:</h2>
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-de-figueiredo-camargo-delgado-945b45301/)
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nico_fals/)
+[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nico_friboii/)
 
 <h2>Sobre mim:</h2>
 <p>
