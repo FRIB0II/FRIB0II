@@ -31,3 +31,8 @@ Atualmente sou estudante do Instituto Federal de CiÃªncia e Tecnologia do ParanÃ
 <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img aling="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Pedro&show_icons=true&count_private=true&hide_border=true&title_color=f8ad09&icon_color=f8ad09&text_color=c9d1d9&bg_color=0d1117" alt="Nicolas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRIB0II&layout=compact&hide_border=true&title_color=f8ad09&text_color=f8ad09&bg_color=0d1117" />
+</div>
