@@ -33,6 +33,5 @@ Atualmente sou estudante do Instituto Federal de CiÃªncia e Tecnologia do ParanÃ
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FRIB0II&show_icons=true&count_private=true&hide_border=true&title_color=f8ad09&icon_color=f8ad09&text_color=c9d1d9&bg_color=0d1117" alt="Nicolas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRIB0II&layout=compact&hide_border=true&title_color=f8ad09&text_color=f8ad09&bg_color=0d1117" />
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIB0II&show_icons=true&theme=radical)
 </div>
