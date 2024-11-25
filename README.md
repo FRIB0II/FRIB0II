@@ -32,7 +32,9 @@ Atualmente sou estudante do Instituto Federal de CiÃªncia e Tecnologia do ParanÃ
 <img aling="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
-<div align="center">  
+<br/>
+
+<div align="center" style="margin-top:10px;>  
   
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIB0II&show_icons=true&theme=dark)
 
