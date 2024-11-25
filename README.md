@@ -34,6 +34,6 @@ Atualmente sou estudante do Instituto Federal de CiÃªncia e Tecnologia do ParanÃ
 
 <div align="center">  
   
-[![Nicolas GitHub stats]("https://github-readme-stats.vercel.app/api?username=FRIB0II&show_icons=true&theme=dark")
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIB0II&show_icons=true&theme=dark)
 
 </div>
