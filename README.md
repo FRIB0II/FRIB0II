@@ -12,7 +12,7 @@
 
 <h2>Sobre mim:</h2>
 <p>
-Atualmente sou estudante do Instituto Federal de Ciência e Tecnologia do Paraná. Estou cursando o 4ºano do curso técnico em informática. Tenho experiência em diversas áreas, como: desenvolvimento web (Full-Stack
+Atualmente sou estudante do Instituto Federal de Ciência e Tecnologia do Paraná. Estou cursando o 4º ano do curso técnico em informática. Tenho experiência em diversas áreas, como: desenvolvimento web (Full-Stack
   ), robótica educacional e sistemas embarcados. Também sou um entusiasta apaixonado por tecnologia, buscando sempre aprender novos conceitos e aplicações.
 </p>
 
