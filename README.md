@@ -12,8 +12,8 @@
 
 <h2>Sobre mim:</h2>
 <p>
-Atualmente sou estudante do Instituto Federal de Ciência e Tecnologia do Paraná. Estou cursando o 4º ano do curso técnico em informática. Tenho experiência em diversas áreas, como: desenvolvimento web (Full-Stack
-  ), robótica educacional e sistemas embarcados. Também sou um entusiasta apaixonado por tecnologia, buscando sempre aprender novos conceitos e aplicações.
+Há mais de 4 anos venho adquirindo experiência na área de desenvolvimento de software, trabalhando tanto no front-end quanto no back-end. Além disso, atuei na manutenção e implementação de features em sistemas legados. Da mesma forma, desenvolvi Web Api's modernas para implementar soluções integradas entre sistemas. Minhas habilidades incluem o desenvolvimento de soluções web utilizando os ecossistemas: .NET e Angular
+Possuo também conhecimentos sólidos em eletrônica, sistemas embarcados, internet das coisas e rede de computadores.
 </p>
 
 <h2>Tecnologias que eu conheço:<h2/>
